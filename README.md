@@ -41,3 +41,19 @@ To replicate this EDA, you’ll need:
    ```bash
    git clone https://github.com/yourusername/TeleCallPredictor.git
    cd TeleCallPredictor
+
+
+   Run the Analysis
+Load the dataset (e.g., telecall_data.csv) into the project directory.
+Open and run the EDA.ipynb Jupyter notebook to perform the analysis.
+Dataset
+Place the dataset file (telecall_data.csv) in the root directory of the project. This dataset should contain customer interaction data and metrics relevant for EDA, such as:
+
+Demographic Information: Age, gender, income, etc.
+Call Details: Duration, time of call, day of the week.
+Customer Response: Indicator of whether the customer responded positively or negatively to the call.
+The dataset can be modified as required to include or exclude features depending on the analysis goals.
+
+Results
+The EDA insights will help shape the TeleCallPredictor model by highlighting essential features that drive customer response, guiding further preprocessing and modeling steps.
+
