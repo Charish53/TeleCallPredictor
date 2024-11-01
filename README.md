@@ -42,6 +42,13 @@ To replicate this EDA, you’ll need:
    git clone https://github.com/yourusername/TeleCallPredictor.git
    cd TeleCallPredictor
 
+2.Install the necessary dependencies by running the following command:
+
+```bash
+pip install pandas matplotlib seaborn scipy
+
+
+
 
 
 
