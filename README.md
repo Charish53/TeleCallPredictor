@@ -67,6 +67,4 @@ You can modify the dataset as needed by adding or removing features to align wit
 ## Results
 
 The EDA insights will highlight key features that drive customer responses, helping shape the **TeleCallPredictor** model and guiding further preprocessing and modeling steps.
-```
 
-This structure keeps the installation command properly formatted within code blocks, so it appears as separate commands in the `README`.
